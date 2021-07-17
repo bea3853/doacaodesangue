@@ -1,0 +1,115 @@
+body {
+  background-color: rgba(
+    rgb(230, 169, 169),
+    rgb(21, 22, 21),
+    rgb(232, 232, 238)
+  );
+  margin: 5px;
+  padding: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+  background: slategrey;
+  text-align: left;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+}
+
+nav {
+  background: slategrey;
+  text-align: right;
+  text-decoration: none;
+}
+
+#menu ul {
+  padding: 0px;
+  margin: 0px;
+  background-color: slategrey;
+  list-style: none;
+  padding: 23px;
+}
+
+#menu ul li {
+  display: inline;
+  text-decoration: none;
+}
+#menu ul li a {
+  padding: 2px 10px;
+  display: inline-block;
+
+  background-color: #ededed;
+  color: #333;
+  text-decoration: none;
+  border-bottom: 3px solid #ededed;
+}
+#menu ul li a:hover {
+  background-color: #d6d6d6;
+  color: #6d6d6d;
+  border-bottom: 3px solid #ea0000;
+}
+section {
+  margin: 5px;
+  padding: 5px;
+}
+h1 {
+  color: #ea0000;
+
+  display: inline-block;
+}
+h3 {
+  color: #6d6d6d;
+  font-size: 20px;
+}
+p {
+  color: rgb(15, 15, 15);
+}
+
+.text2,
+b {
+  text-align: justify;
+  margin: 5px;
+  padding: 2px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tipos {
+  margin: 2px;
+  padding: 5px;
+}
+
+h5 {
+  color: #ea0000;
+  text-align: center;
+}
+
+form {
+  margin: 10px;
+  padding: 5px;
+  color: floralwhite;
+  position: relative;
+  object-position: center;
+  text-align: center;
+  position: relative;
+  /*right: 20px;*/
+}
+
+button {
+  position: relative;
+  object-position: center;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.rodape {
+  color: #ededed;
+  background: #000;
+  padding: 20px;
+  text-align: center;
+}
