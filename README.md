@@ -2,7 +2,7 @@
 
 Site referente a um exercício de construção de páginas dos Senai. 
 
-[![NPM](https://github.com/bea3853/doacaodesangue/blob/master/LICENSE)
+[![NPM](https://github.com/bea3853/doacaodesangue/blob/master/LICENSE)]
 
   
 ##  Implantação em produção
